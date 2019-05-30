@@ -1,0 +1,17 @@
+.card{
+  width: 30%;
+  text-align: center;
+  border-radius: 30px;
+  /* background-color: red; */
+}
+.sub1{
+  width: 95%;
+  margin: auto;
+}
+.sub2{
+  width: 95%;
+  /* background-color:blue; */
+}
+img{
+  width: 100%;
+}
